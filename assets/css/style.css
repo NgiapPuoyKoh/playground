@@ -14,11 +14,13 @@ body {
 
 p {
   display: inline-block;
+  /* white space */
   padding: 1.1em;
   line-height: 1.5em;
 }
 
 h5 {
+  /* white space */
   margin-bottom: 0.25em;
 }
 
